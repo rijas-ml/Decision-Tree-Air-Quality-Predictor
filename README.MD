@@ -9,6 +9,10 @@ Humidity (%)
 Wind Speed (km/h)
 NO₂ concentration
 PM2.5 concentration
+(PM = Particulate Matter
+2.5 = particles ≤ 2.5 micrometers in diameter.)
+
+[These particles are so tiny they can bypass your nose and throat and go straight into your lungs and bloodstream]
 
 Model
 
